@@ -1,2 +1,3 @@
-Notas del Proyecto:
- - Tarea 1: Definir el objetivo.
+Project Notes:
+ - Task 1: Define the objective.
+# hello
